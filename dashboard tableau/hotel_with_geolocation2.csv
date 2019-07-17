@@ -1,0 +1,211 @@
+;hotel;indirizzo;dataIns;province;città;nazione;lat;lng
+0;Camping Olympia;Camping Olympia, 1 3904 Toblach, 39034 Dobbiaco Italia;2019-07-05;Bolzano;Dobbiaco - Toblach;Italy;46,63;12,23
+1;Camping Village Firenze;Via Generale Dalla Chiesa 1-3, 50136, Firenze Italia;2019-07-05;Firenze;Firenze;Italy;43,765056;11,308736
+2;Camping Torre Castiglione;Torre Lapillo 30, 73010, Porto Cesareo Italia;2019-07-05;Lecce;Porto Cesareo;Italy;40,287104;17,857042
+3;Camping Sabbiadoro;Via Sabbiadoro 8, 33054, Lignano Sabbiadoro Italia;2019-07-05;Udine;Lignano Sabbiadoro;Italy;45,681909;13,126592
+4;Europa Camping Village;Via Fausta 332 Loc, Valle Dolce, 30013, Cavallino-Treporti Italia;2019-07-05;Venezia;Cavallino-Treporti;Italy;45,453073;12,452587
+5;Camping Village Marina di Venezia;Via Montello, 6, 30013, Cavallino-Treporti Italia;2019-07-05;Venezia;Cavallino-Treporti;Italy;45,46;12,5
+6;Villaggio Camping Capo Ferrato;Via Delle Ginestre,12, 09043 Costa Rei, Muravera, Sardegna Italia;2019-07-05;Cagliari;Muravera;Italy;39,244365;9,570571
+7;Camping Village Capo d'Orso;Localit‡ Le Saline Palau Sardegna, 07020, Palau, Sardegna Italia;2019-07-05;Olbia-Tempio;Buddusò;Italy;40,58;9,26
+8;Rifugio Sapienza;Piazza Rifugio Sapienza SNC, 95030 Nicolosi, Sicilia Italia;2019-07-05;Catania;Nicolosi;Italy;37,700540000000004;14,998443
+9;Rifugio Lagazuoi;Monte Lagazuoi, 2752, 32043 Cortina d'Ampezzo Italia;2019-07-05;Belluno;Cortina d'Ampezzo;Italy;46,527598;12,009021
+10;Agriturismo & Scuderia della Valle;Via PrabutË, 2, 24038 Valsecca, Sant'Omobono Terme Italia;2019-07-05;Bergamo;Sant'Omobono Terme;Italy;45,830119;9,499444
+11;Agriturismo La Ferme du Grand Paradis;Fraz, Valnontey 32, 11012 Cogne Italia;2019-07-05;Valle D'Aosta;Cogne;Italy;45,6;7,36
+12;Crowne Plaza Milan Linate;Via Konrad Adenauer 3, 20097 San Donato Milanese Italia;2019-07-05;Milano;San Donato Milanese;Italy;45,419526;9,255909
+13;UNAHOTELS San Vitale Bologna;Via Larga 4 Nei pressi della stazione ferroviaria ìvia Largaî e della tangenziale di Bologna uscita 11, 40138 Bologna Italia;2019-07-05;;;;;
+14;Starhotels Business Palace;Via Pietro Gaggia 3, 20139 Milano Italia;2019-07-05;Milano;Milano;Italy;45,437717;9,232227
+15;Cosmopolitan Business Hotel;Via Alcide De Gasperi, 2, 62012, Civitanova Marche Italia;2019-07-05;Macerata;Civitanova Marche;Italy;43,31;13,73
+16;8piuhotel;Viale Del Risorgimento, 73100, Lecce Italia;2019-07-05;Lecce;Lecce;Italy;40,361439;18,156369
+17;UNAHOTELS Bologna Fiera;Piazza della Costituzione 1, 40128 Bologna Italia;2019-07-05;Bologna;Bologna;Italy;44,512675;11,358096
+18;Parioli Bed & Business;Via Antonio Pollaiolo 2, 00197 Roma Italia;2019-07-05;Roma;Roma;Italy;41,926372;12,475605
+19;AC Hotel Bologna by Marriott;Via Sebastiano Serlio, 28, 40128 Bologna Italia;2019-07-05;Bologna;Bologna;Italy;44,507887;11,354379
+20;Savhotel;Via Ferruccio Parri 9, 40128 Bologna Italia;2019-07-05;Bologna;Bologna;Italy;44,512327;11,353607
+21;B&B Villa Valentina Taormina;Via Cannizzoli 74 Trappitello, 98039, Taormina, Sicilia Italia;2019-07-05;Messina;Taormina;Italy;37,833774;15,244295
+22;Hotel Continental;Via Dionisio I nr, 2/A, 98039, Taormina, Sicilia Italia;2019-07-05;Messina;Taormina;Italy;37,852319;15,281807
+23;Hotel Villa Ducale;via Leonardo da Vinci 60, 98039, Taormina, Sicilia Italia;2019-07-05;Messina;Taormina;Italy;37,855513;15,281366
+24;Albergo del Senato;Piazza della Rotonda 73, 00186 Roma Italia;2019-07-05;Roma;Roma;Italy;41,898988;12,477205
+25;Lifestyle Suites Rome;Piazza Navona 93, 00186 Roma Italia;2019-07-05;Roma;Roma;Italy;41,898835;12,473343
+26;Hotel Abruzzi;Piazza della Rotonda 69, 00186 Roma Italia;2019-07-05;Roma;Roma;Italy;41,898957;12,477209
+27;Albergo Diffuso Mannois;Via La Marmora 4, 08028, Orosei, Sardegna Italia;2019-07-05;Nuoro;Orosei;Italy;40,38;9,69
+28;Hotel Luna Lughente;Via Sa Serra, 2, 07026, Olbia, Sardegna Italia;2019-07-05;Olbia-Tempio;Olbia;Italy;40,92;9,5
+29;Locanda del Sole;Via del Santuario 114, 19017 Riomaggiore Italia;2019-07-05;La Spezia;Riomaggiore;Italy;44,100183;9,740459
+30;B&B and Apartments Da Baranin;Via a, Rollandi 29, 19017 Manarola Italia;2019-07-05;La Spezia;Manarola;United States;46,06;9,45
+31;Firenze Suite;Via Nuova de' Caccini n 25 (ang Via della Pergola), 50121, Firenze Italia;2019-07-05;Firenze;Firenze;Italy;43,773829;11,262603
+32;NH Firenze;Piazza Vittorio Veneto 4/A, 50123, Firenze Italia;2019-07-05;Firenze;Firenze;Italy;43,775656;11,236847
+33;Family Apartments;Via dei Cimatori 16/R, 50122, Firenze Italia;2019-07-05;Firenze;Firenze;Italy;43,770596;11,255294
+34;Hotel Belvedere;Alessandro Volta, 37, 73026 Torre dell'Orso, Melendugno Italia;2019-07-05;Lecce;Melendugno;Italy;40,3;18,4
+35;Trulli Holiday - Albergo Diffuso;Piazza XXVII Maggio 38, 70011, Alberobello Italia;2019-07-05;Bari;Alberobello;Italy;40,784003;17,238669
+36;Masseria Montalbano;S,S, 16 - Km 871,8, 72017, Ostuni Italia;2019-07-05;Brindisi;Ostuni;Italy;40,73;17,58
+37;Melo Accommodations B&B;Via Melo da Bari 195, 70121, Bari Italia;2019-07-05;Bari;Bari;Italy;41,12034;16,871664
+38;Hotel al Lupo;Via Oswald von Wolkenstein 5, 39040, Castelrotto Italia;2019-07-05;Bolzano;Castelrotto - Kastelruth;Italy;46,567503;11,560037
+39;Du Lac et Du Parc Grand Resort;Viale Rovereto 44, 38066, Riva Del Garda Italia;2019-07-05;Trento;Riva del Garda;Italy;45,88;10,86
+40;Palace Ravelli;Mezzana-Marilleva, Val di Sole, 38020, Mezzana Italia;2019-07-05;Trento;Mezzana;Italy;46,316392;10,798281
+41;Albergo GarnÏ Antico Mas del Medico;Passeggiata Sottocastello 7, 38033 Masi di Cavalese, Cavalese Italia;2019-07-05;Trento;Cavalese;Italy;46,29;11,48
+42;Spinale Hotel;Via Monte Spinale 39, 38086 Madonna di Campiglio, Pinzolo Italia;2019-07-05;Trento;Pinzolo;Italy;46,225454;10,826222
+43;Genusshotel Goldene Rose;Via Principale 73, 39028 Silandro Italia;2019-07-05;Bolzano;Silandro - Schlanders;Italy;46,63;10,77
+44;Hotel Benaco;Via Benaco 35, 38069 Torbole, Nago-Torbole Italia;2019-07-05;Trento;Nago-Torbole;Italy;45,86924;10,875257
+45;Hotel Mercurio Venezia;Calle del Fruttariol San Marco 1848, 30124 Venezia Italia;2019-07-05;Venezia;Venezia;Italy;45,434246328125;12,338949875
+46;Hotel Al Ponte Mocenigo;S, Croce 2063, 30135 Venezia Italia;2019-07-05;Venezia;Venezia;Italy;45,44;12,33
+47;Hotel Fil˘;Fondamenta Cannaregio 1250 Ponte delle Guglie, 30121 Venezia Italia;2019-07-05;Venezia;Venezia;Italy;45,445281;12,321839
+48;Alla Vite Dorata;Cannaregio 4690/B, 30121 Venezia Italia;2019-07-05;Venezia;Venezia;Italy;45,44;12,32
+49;NapoliCentro Mare;Corso Vittorio Emanuele, 114 Largo Saverio Mercadante, 80121, Napoli Italia;2019-07-05;Napoli;Napoli;Italy;40,836544;14,224462
+50;La Smorfia;Via Santa Maria di Costantinopoli 30, 80138, Napoli Italia;2019-07-05;Napoli;Napoli;Italy;40,851601;14,251753
+51;Bed and Breakfast Il Conservatorio;Via San Pietro a Majella 7 Di fronte al Real Conservatorio di Napoli, 80138, Napoli Italia;2019-07-05;Napoli;Napoli;Italy;40,849596000000005;14,252971500000001
+52;Rooms Rent Vesuvio Bed & Breakfast;Via Mario Pomilio 9, 80147, Napoli Italia;2019-07-05;Napoli;Napoli;Italy;40,851585;14,341621
+53;Camping Village Torre Pendente;Viale delle Cascine 86, 56122, Pisa Italia;2019-07-05;Pisa;Pisa;Italy;43,723996;10,383185
+54;Hotel Alessandro della Spina;Via Alessandro della Spina, 5-7-9, 56125, Pisa Italia;2019-07-05;Pisa;Pisa;Italy;43,708826;10,402226
+55;La Locanda di Giada;Via San Biagio, 31 Cisanello, 56124, Pisa Italia;2019-07-05;Pisa;Pisa;Italy;43,703483;10,43743
+56;Hotel Riviera Blu;Viale del Tirreno, 15, 56128 Tirrenia, Pisa Italia;2019-07-05;Pisa;Pisa;Italy;43,642008;10,289974
+57;Gimmi Hotel;Viale Kassala 2, 47922 Torre Pedrera, Rimini Italia;2019-07-05;Rimini;Rimini;Italy;44,109863;12,509171
+58;Park Hotel Serena;Via Canuti, 1, 47811 Viserbella, Rimini Italia;2019-07-05;Rimini;;Italy;44,0595;12,5685
+59;You & Me Beach Hotel;Viale Porto Palos 65, 47922 Viserbella, Rimini Italia;2019-07-05;Rimini;Rimini;Italy;44,097666;12,525022
+60;Hotel Cannes;Viale Pescara 14 Miramare, 47924, Rimini Italia;2019-07-05;Rimini;Rimini;Italy;44,028468;12,623768
+61;Residenza Donna Giovanna;Via Umberto I, 89861 Tropea Italia;2019-07-05;Vibo Valentia;Tropea;Italy;38,677243;15,896421
+62;Infinity Resort Tropea;Strada Statale 522 SNC Localita Pizzuta, 89861 Parghelia Italia;2019-07-05;Vibo Valentia;;Italy;38,68333;15,91667
+63;Villa Garden;Cesare Battisti - Gasponi, 89862 Tropea Italia;2019-07-05;Vibo Valentia;;Italy;38,67806;15,89694
+64;B&B Magna Grecia;Via Terina, 4, 88900, Crotone Italia;2019-07-05;Crotone;Crotone;Italy;39,054592;17,136266
+65;Popilia Country Resort;Localit‡ Cut‡, 89843 Maierato Italia;2019-07-05;Vibo Valentia;Stefanaconi;Italy;38,69;16,13
+66;Hotel Sorapiss;Via Monte Piana, 15, 32041 Misurina, Auronzo di Cadore Italia;2019-07-05;Belluno;Auronzo di Cadore;Italy;46,581192;12,251802
+67;Albergo Miralago;Via Guide Alpine, 3, 32041 Misurina, Auronzo di Cadore Italia;2019-07-05;Belluno;Auronzo di Cadore;Italy;46,6183235;12,312023
+68;Chalet Lago Antorno;Localit‡ Lago Antorno 1, 32041 Misurina, Auronzo di Cadore Italia;2019-07-05;Belluno;Auronzo di Cadore;Italy;46,594529;12,264116
+69;Albergo Bellavista;Via di Piano 13, 32040 Dosoledo Italia;2019-07-05;Belluno;Comelico Superiore;Italy;46,597044;12,492101
+70;B&B Rossodisera;Via Pier Fortunato Calvi 15, 32040 Domegge di Cadore Italia;2019-07-05;Belluno;Domegge di Cadore;Italy;46,462962;12,413868
+71;B&B Hotel Milano San Siro;Via Achille 4, 20151 Milano Italia;2019-07-05;Milano;Milano;Italy;45,480296;9,123072
+72;Moscova Luxury B&B;Via della Moscova 27, 20121 Milano Italia;2019-07-05;Milano;Milano;Italy;45,476884;9,18896
+73;B&B Hotel Milano Sant'Ambrogio;Via Degli Olivetani 4, 20123 Milano Italia;2019-07-05;Milano;Milano;Italy;45,462991;9,169983
+74;Enterprise Hotel;Corso Sempione 91, 20149 Milano Italia;2019-07-05;Milano;Milano;Italy;45,486774;9,157535
+75;Palazzo Brunaccini;Piazzetta Lucrezia Brunaccini, 9, 90134, Palermo, Sicilia Italia;2019-07-05;Palermo;Palermo;Italy;38,112226;13,36059
+76;Liberta' Bed And Breakfast;Via Filippo Turati 5, 90139, Palermo, Sicilia Italia;2019-07-05;Palermo;Palermo;Italy;38,125574;13,356827
+77;Delle Vittorie Luxury Rooms & Suites;Via Bari 52 incrocio via Maqueda 309, 90133, Palermo, Sicilia Italia;2019-07-05;Palermo;Palermo;Italy;38,117928;13,360368
+78;B&B Due Passi;Via Principe di Belmonte 90, 90139, Palermo, Sicilia Italia;2019-07-05;Palermo;Palermo;Italy;38,124106;13,357801
+79;B&B Cannoli;Via Mariano Stabile, 60, 90139, Palermo, Sicilia Italia;2019-07-05;Palermo;Palermo;Italy;38,124546;13,361729
+80;NH Torino Lingotto Congress;Via Nizza 262 Lingotto, 10126 Torino Italia;2019-07-05;Torino;Torino;Italy;45,031698;7,667003
+81;NH Torino Santo Stefano;Via Porta Palatina, 19, 10123 Torino Italia;2019-07-05;Torino;Torino;Italy;45,073587;7,683712
+82;Orologio Living Apartments;Corso Alcide De' Gasperi 41, 10129 Torino Italia;2019-07-05;Torino;Torino;Italy;45,055883;7,659867
+83;B&B Della Rocca;Via della Rocca 10, 10123 Torino Italia;2019-07-05;Torino;Torino;Italy;45,063691;7,693125
+84;B&B Il Pane e le Rose;Via Goito 11, 10125 Torino Italia;2019-07-05;Torino;Torino;Italy;45,060316;7,680527
+85;Hotel President;Via antonio Cecchi 67, 10152 Torino Italia;2019-07-05;Torino;Torino;Italy;45,089527;7,678642
+86;New Camping Le Tamerici;Via della Cecinella 5, 57023, Cecina Italia;2019-07-05;Livorno;Cecina;Italy;43,292719;10,509175
+87;Toscana Biovillage;Via Gorizia 2 Loc, Collemezzano, 57023, Cecina Italia;2019-07-05;;;Italy;45,9352;13,6193
+88;Varo Village Hotel;via del Forte, 1, 57020 Marina di Bibbona Italia;2019-07-05;Livorno;Bibbona;Italy;43,239416;10,531357
+89;Hotel Margherita;Via Umberto I, 70, 84010 Praiano Italia;2019-07-05;Napoli;Praiano;Italy;40,610166;14,531418
+90;Residence Due Torri;Via Diego Taiani 7, 84010, Maiori Italia;2019-07-05;Napoli;Maiori;Italy;40,644198;14,649125
+91;Cannaverde - Amalfi Coast Camp;Via Diego Taiani 22b, 84010, Maiori Italia;2019-07-05;Salerno;Maiori;Italy;40,642829;14,653191
+92;Salerno in Alto Mare B&B;Piazza S, Agostino, 16, 84121 Salerno Italia;2019-07-05;Salerno;Salerno;Italy;40,68;14,76
+93;Meuble Casa Mannini B&B;Via Casa Mannini 2, 84010, Maiori Italia;2019-07-05;Salerno;Maiori;Italy;40,649343;14,642242
+94;Santa Caterina Hotel;9 SS Amalfitana, 84011, Amalfi Italia;2019-07-05;Napoli;Amalfi;Italy;40,624606;14,583723
+95;Monastero Santa Rosa Hotel & Spa;Via Roma 2 Strada per Amalfi, 84010 Conca dei Marini Italia;2019-07-05;Salerno;Conca dei Marini;Italy;40,618054;14,572488
+96;Relais Dell'Olmo;Strada Olmo Ellera 4 Localita L'Olmo, 06132, Perugia Italia;2019-07-05;Perugia;Perugia;Italy;43,05;12,41
+97;Sangallo Palace Hotel;Via Luigi Masi 9, 06121, Perugia Italia;2019-07-05;Perugia;Perugia;Italy;43,106519;12,387807
+98;Agriturismo La Ginestrella;Via Maiole Baldelli, 10 Loc, Civitella d'Arna, 06134, Perugia Italia;2019-07-05;Perugia;Perugia;Italy;43,12997;12,510622
+99;Valentina Bed & Breakfast;Via Vivaria 7, 05018, Orvieto Italia;2019-07-05;Terni;Orvieto;Italy;42,719757;12,110864
+100;Agriturismo Il Castello;Frazione Coste di Trex, 25, 06081, Assisi Italia;2019-07-05;Perugia;Assisi;Italy;43,08888;12,664283
+101;Castello di Baccaresca;Localit‡ Baccaresca, 06024, Gubbio Italia;2019-07-05;Perugia;Gubbio;Italy;43,290775;12,700237
+102;Il Castellaro Country House;Strada Ponte Felcino / Ponte Pattoli 44E, 06134 Ponte Pattoli, Perugia Italia;2019-07-05;Perugia;Perugia;Italy;43,163855;12,43228
+103;Residenza di Campagna;Via Ottone IV 1, 06081 Rivotorto, Assisi Italia;2019-07-05;Perugia;Assisi;Italy;43,06;12,58
+104;Grand Hotel Pianeta Maratea Resort;Via Santa Caterina 50, 85046, Maratea Italia;2019-07-05;Potenza;Maratea;Italy;40,0;15,72
+105;Hotel San Giorgio Matera Albergo Diffuso nei Sassi;Via Fiorentini 259, 75100, Matera Italia;2019-07-05;Matera;Matera;Italy;40,667793;16,610231
+106;Matera Sassi Rooms;Via Benedetto Croce 21, 75100, Matera Italia;2019-07-05;Matera;Matera;Italy;40,673958;16,584987
+107;Sant'Angelo Luxury Resort;Piazza San Pietro Caveoso, 75100, Matera Italia;2019-07-05;Matera;Matera;Italy;40,664499;16,612148
+108;B&B Al Convento;Ponte San Pietro Caveoso 25/30, 75100, Matera Italia;2019-07-05;Matera;Matera;Italy;40,663976;16,610987
+109;Grotta dell'Eremita;Contrada Calcescia, 1, 85010 Castelmezzano Italia;2019-07-05;Potenza;Pignola;Italy;40,58;15,78
+110;Bed & Breakfast Oasi;via nazionale adriatica nord 443, 65125, Pescara Italia;2019-07-05;Pescara;Pescara;Italy;42,491765;14,17997
+111;Corte Rossetti Le Dimore B&B;Via Santa Maria, 20 Piazza Rossetti, 66054, Vasto Italia;2019-07-05;Chieti;Vasto;Italy;42,111451;14,708952
+112;Hotel Nido dell'Aquila;Localit‡ Fonte Cerreto, 67010 Assergi Italia;2019-07-05;L'Aquila;Barete;Italy;42,448318;13,271408
+113;Halanus Hotel & Resort;Via P, Borsellino,16, 65020 Alanno Italia;2019-07-05;Pescara;San Valentino in Abruzzo Citeriore;Italy;42,23;13,97
+114;Antico Borgo Chieti;Via Monaco La Valletta 1, 66100, Chieti Italia;2019-07-05;Chieti;Chieti;Italy;42,346864;14,164368
+115;UNAHOTELS Capotaormina;Via Nazionale 105, 98039, Taormina, Sicilia Italia;2019-07-05;Messina;Taormina;Italy;37,859878;15,295424
+116;Hotel Villa Enrica - Aeolian Charme;Via Serra, 11, 98055, Sicilia Italia;2019-07-05;Messina;Lipari;Italy;38,47;14,95
+117;Agriturismo Il Limoneto;Via d'Amico 41 Scillichenti, 95024, Acireale, Sicilia Italia;2019-07-05;Catania;Acireale;Italy;37,650537;15,177962
+118;Pietre Antiche Appartamenti;Via Giuseppe Fontana 12, 91016, Erice, Sicilia Italia;2019-07-05;Trapani;Erice;Italy;38,037707;12,587041
+119;Oberdan Bed & Breakfast;Via Guglielmo Oberdan 153, 95128 Catania, Sicilia Italia;2019-07-05;Catania;Catania;Italy;37,514941;15,089012
+120;Agriturismo Masseria La Chiusa;Via Masseria Chiusa SNC Strada Provinciale 67bis, 90048 San Giuseppe Jato, Sicilia Italia;2019-07-05;Palermo;San Giuseppe Jato;Italy;37,97;13,18
+121;Camping Village La Pineta;Via del Secco 90, 91010, San Vito lo Capo, Sicilia Italia;2019-07-05;Trapani;San Vito Lo Capo;Italy;38,174607;12,74184
+122;Cesenatico Camping Village;Via Mazzini 182, 47042, Cesenatico Italia;2019-07-05;Forli'-Cesena;Cesenatico;Italy;44,2;12,4
+123;Grand Hotel Villa Torretta Milan Sesto, Curio Collection by Hilton;Via Milanese 3, 20099 Sesto San Giovanni Italia;2019-07-05;Milano;Sesto San Giovanni;Italy;45,54;9,24
+124;B&B La Casa Nel Parco;Via Giancarlo Clerici 342, 20099 Sesto San Giovanni Italia;2019-07-05;Milano;Sesto San Giovanni;Italy;45,54;9,24
+125;Hotel Sporting Rimini;Viale Amerigo Vespucci 20, 47921, Rimini Italia;2019-07-05;Rimini;Rimini;Italy;44,069026;12,579661
+126;CP Residence;Via Silvio Pellico 25, 20099 Sesto San Giovanni Italia;2019-07-05;Milano;Sesto San Giovanni;Italy;45,546229;9,231727
+127;Hotel Nord Est;Viale Regina Margherita 50, 47924 Rivazzurra di Rimini, Rimini Italia;2019-07-05;Rimini;Rimini;Italy;44,037537;12,614069
+128;Hotel Stresa;Viale Gubbio 21, 47924, Rimini Italia;2019-07-05;Rimini;Rimini;Italy;44,034425;12,615242
+129;Principe di Piemonte Hotel;Viale Principe di Piemonte 27 Miramare di Rimini, 47924, Rimini Italia;2019-07-05;Rimini;Rimini;Italy;44,030955;12,622158
+130;Hotel Marina;Via Dante Alighieri 18, 30016, Jesolo Italia;2019-07-05;Venezia;Jesolo;Italy;45,507972;12,650424
+131;Hotel Jet;Via Altinate 20, 30016, Jesolo Italia;2019-07-05;Venezia;Jesolo;Italy;45,514927;12,674211
+132;Hotel Stockholm;Via dei Mille 19, 30016, Jesolo Italia;2019-07-05;Venezia;Jesolo;Italy;45,486607;12,595441
+133;Hotel Orient & Pacific;Via Leonardo da Vinci 2, 30017, Jesolo Italia;2019-07-05;Venezia;Jesolo;Italy;45,517666;12,683106
+134;Hotel Excelsior;Via Zara 3, 30016, Jesolo Italia;2019-07-05;Venezia;Jesolo;Italy;45,495718;12,618067
+135;Hotel Piazza Vecchia;Via Colleoni, 3 Bergamo Alta, 24129 Bergamo Italia;2019-07-05;Bergamo;Bergamo;Italy;45,705289;9,660276
+136;NH Bergamo;Via Pietro Paleocapa 1/G, 24122 Bergamo Italia;2019-07-05;Bergamo;Bergamo;Italy;45,69204;9,672381
+137;La Valletta Relais;Via Castagneta 19 Citta' Alta, 24129 Bergamo Italia;2019-07-05;Bergamo;Bergamo;Italy;45,711575;9,651543
+138;Hotel Relais San Lorenzo;Piazza Lorenzo Mascheroni 9/A, 24129 Bergamo Italia;2019-07-05;Bergamo;Bergamo;Italy;45,70538;9,660005
+139;Camping Dolce Sole;Via Degli Unni 13, 54100 Marina di Massa, Massa Italia;2019-07-05;Massa-Carrara;Massa;Italy;44,029564;10,082585
+140;Hotel Matilde;Via Tagliamento 4, 54100 Marina di Massa, Massa Italia;2019-07-05;Massa-Carrara;Massa;Italy;44,0124;10,102884
+141;Hotel Tirreno;Via Manzoni 1, 54100 Marina di Massa, Massa Italia;2019-07-05;Massa-Carrara;Massa;Italy;44,04;10,14
+142;Hotel La Perla;Via delle Pinete 163 54100 Marina di Massa (MS), 54100 Marina di Massa, Massa Italia;2019-07-05;Massa-Carrara;Massa;Italy;44,021187;10,081109
+143;Tilly;Lungomare Levante 1/54037, 54100 Marina di Massa, Massa Italia;2019-07-05;Massa-Carrara;Massa;Italy;43,990119;10,126664
+144;Hotel Central Park;Via Tonfano 305 Versilia, 55045 Marina di Pietrasanta Italia;2019-07-05;Lucca;Pietrasanta;Italy;43,938813;10,211973
+145;Hotel Venezia;Via Firenze 48, 55045 Marina di Pietrasanta Italia;2019-07-05;Lucca;Pietrasanta;Italy;43,924409;10,207542
+146;L'Alba Hotel;Via Cristoforo Colombo 23, 55045 Marina di Pietrasanta Italia;2019-07-05;Lucca;Pietrasanta;Italy;43,933895;10,195757
+147;Hotel San Siro;Via Leonardo da Vinci, 25, 55045 Marina di Pietrasanta Italia;2019-07-05;Lucca;Pietrasanta;Italy;43,924587;10,203173
+148;La Versiliana Hotel;Piazza Giosue' Carducci 1, 55045 Marina di Pietrasanta Italia;2019-07-05;Lucca;Pietrasanta;Italy;43,956632;10,230696
+149;Hotel Trieste;Via San Rocco 3/5, 23017, Morbegno Italia;2019-07-05;Sondrio;Morbegno;Italy;46,131166;9,565211
+150;La Brace Hotel Ristorante;Via Piani, 1 Strada Statale dello Stelvio Km 22,3, 23010 Forcola Italia;2019-07-05;Sondrio;Forcola;Italy;46,165494;9,68339
+151;Hotel Il Portichetto;Via della Foppa 2 Vezio, 23828, Perledo Italia;2019-07-05;Lecco;Perledo;Italy;46,010859;9,289311
+152;Genzianella;Via Ezio Vanoni 19, 23010 Val Masino Italia;2019-07-05;Sondrio;Val Masino;Italy;46,240645;9,628995
+153;Hotel Villa Flori;Via Cernobbio 12, 22100, Como Italia;2019-07-05;Como;Como;Italy;45,827379;9,069671
+154;Hotel Barchetta Excelsior;Piazza Camillo Benso Conte di Cavour 1, 22100, Como Italia;2019-07-05;Como;Como;Italy;45,812897;9,081618
+155;In Riva al Lago Bed & Breakfast;Via Benedetto E Antonio Maria Crespi 4, 22100, Como Italia;2019-07-05;Como;Como;Italy;45,81541;9,083914
+156;Ostello Bello Lake Como;Via Fratelli Rosselli 9, 22100, Como Italia;2019-07-05;Como;Como;Italy;45,812648;9,074346
+157;Hotel Como;Via Mentana 28, 22100, Como Italia;2019-07-05;Como;Como;Italy;45,801906;9,0902
+158;Hotel Engadina;Viale Fratelli Rosselli 22, 22100, Como Italia;2019-07-05;Como;Como;Italy;45,81253;9,072659
+159;Villa Liberty;Via Gaspare Rosales 1, 22100, Como Italia;2019-07-05;Como;Como;Italy;45,819588;9,060835
+160;Hilton Lake Como;Via Borgo Vico 241, 22100, Como Italia;2019-07-05;Como;Como;Italy;45,815869;9,066036
+161;Villa del Cigno;Via Caldone 3, 23900 Lecco Italia;2019-07-05;Lecco;Lecco;Italy;45,861623;9,403915
+162;Agriturismo Deviscio;3 Localita' Devizzo, 23900 Lecco Italia;2019-07-05;Lecco;Lecco;Italy;45,85;9,39
+163;Polvara Trentuno Bed & Breakfast;Via Monsignore Giuseppe Polvara 31, 23900 Lecco Italia;2019-07-05;Lecco;Lecco;Italy;45,848582;9,408075
+164;Affittacamere Solosonno;Via Lazzaretto 14, 23900 Lecco Italia;2019-07-05;Lecco;Lecco;Italy;45,850056;9,389231
+165;Villa Puccini B&B;Via Giacomo Puccini n, 8, 23900 Lecco Italia;2019-07-05;Lecco;Lecco;Italy;45,827258;9,418545
+166;City Hotel;Via Nazario Sauro 29, 25015, Desenzano Del Garda Italia;2019-07-05;Brescia;Desenzano del Garda;Italy;45,467939;10,540819
+167;Villa Rosa Hotel;Lungolago C, Battisti 89, 25015, Desenzano Del Garda Italia;2019-07-05;Brescia;Desenzano del Garda;Italy;45,47;10,54
+168;Aquila d'Oro;Viale Francesco Agello 47-49, 25015, Desenzano Del Garda Italia;2019-07-05;Brescia;Desenzano del Garda;Italy;45,459727;10,575224
+169;B&B Desenzano;Viale Rimembranze, 32, 25015, Desenzano Del Garda Italia;2019-07-05;Brescia;Desenzano del Garda;Italy;45,472115;10,528708
+170;Hotel Desenzano;Viale Cavour 40/42, 25015, Desenzano Del Garda Italia;2019-07-05;Brescia;Desenzano del Garda;Italy;45,465474;10,537015
+171;Residence Il Sogno;Via Bonvicino, 2 A, 25015, Desenzano Del Garda Italia;2019-07-05;Brescia;Desenzano del Garda;Italy;45,466738;10,541778
+172;Best Western Hotel Crimea;Via Mentana 3, 10133 Torino Italia;2019-07-05;Torino;Torino;Italy;45,056636;7,69479
+173;Hotel Galant;Corso Garibaldi 155 Venaria Reale, 10078 Torino Italia;2019-07-05;Torino;Venaria Reale;Italy;45,119708;7,644114
+174;Best Western Hotel Genio;Corso Vittorio Emanuele II 47, 10125 Torino Italia;2019-07-05;Torino;Torino;Italy;45,06;7,68
+175;Hotel Torino Porta Susa;Corso San Martino 5, 10122 Torino Italia;2019-07-05;Torino;Torino;Italy;45,075113;7,669112
+176;Residence Sacchi;Via Paolo Sacchi, 34, 10128 Torino Italia;2019-07-05;Torino;Torino;Italy;45,05861;7,674394
+177;Best Western Premier Milano Palace Hotel;Corso Vittorio Emanuele II, 68, 41121, Modena Italia;2019-07-05;Modena;Modena;Italy;44,65;10,93
+178;A Casa di Emma;Strada Nazionale per Carpi Nord, 1500, 41123, Modena Italia;2019-07-05;Modena;Modena;Italy;44,678338;10,89455
+179;B&B Igea,50;Via Igea 50, 41126, Modena Italia;2019-07-05;Modena;Modena;Italy;44,613826;10,888127
+180;PHI Hotel Canalgrande;Corso Canalgrande 6, 41121, Modena Italia;2019-07-05;Modena;Modena;Italy;44,643388;10,927449
+181;Ambasciatori Hotel;Via Litoranea Nord 23, 47843, Misano Adriatico Italia;2019-07-05;Rimini;Misano Adriatico;Italy;43,981197;12,697576
+182;Hotel Touring;Via Litoranea Nord 65, 47843, Misano Adriatico Italia;2019-07-05;Rimini;Misano Adriatico;Italy;43,985255;12,689559
+183;Hotel Aquila D'Oro;Via Sardegna, 29, 47843, Misano Adriatico Italia;2019-07-05;Rimini;Misano Adriatico;Italy;43,983798;12,687442
+184;HOTEL MAIOLI;via matteotti 12, 47843, Misano Adriatico Italia;2019-07-05;Rimini;Misano Adriatico;Italy;43,978141;12,69545
+185;La Casa Nella Prateria;Via Castellaro 12, 47843, Misano Adriatico Italia;2019-07-05;Rimini;Misano Adriatico;Italy;43,951373;12,659879
+186;Locanda San Biagio;Via del Carro, 42, 47843, Misano Adriatico Italia;2019-07-05;Rimini;Misano Adriatico;Italy;43,98;12,69
+187;Fra i Sassi Residence;Via D'Addozio 102 Sasso Barisano, 75100, Matera Italia;2019-07-05;Matera;Matera;Italy;40,669237;16,609539
+188;Le Dodici Lune Residence;Via San Giacomo, 27 Sasso Caveoso vicino al MUSMA, 75100, Matera Italia;2019-07-05;Matera;Matera;Italy;40,666003;16,61196
+189;Masseria Santa Lucia;Via dei Mestieri snc ( incrocio via delle Arti ), 75100, Matera Italia;2019-07-05;Matera;Matera;Italy;40,673797;16,573357
+190;La Casa di Ele;Via San Biagio, 26, 75100, Matera Italia;2019-07-05;Matera;Matera;Italy;40,667636;16,608044
+191;Hydria Residence;Via Piave 10, 75100, Matera Italia;2019-07-05;Matera;Matera;Italy;40,669331;16,607652
+192;Il Nespolo;Vico III Casalnuovo 18, 75100, Matera Italia;2019-07-05;Matera;Matera;Italy;40,66183;16,610857
+193;Antico Convicino Rooms Suites & SPA;Via San Pietro Caveoso 18/30, 75100, Matera Italia;2019-07-05;Matera;Matera;Italy;40,664566;16,610072
+194;Agriturismo La Corte del Lupo;Localita Pertana 43, 06025 Nocera Umbra Italia;2019-07-05;Perugia;Nocera Umbra;Italy;43,152522;12,758165
+195;Grand Hotel Assisi;Via G, Renzi, 2, 06081, Assisi Italia;2019-07-05;Perugia;Assisi;Italy;43,06;12,58
+196;Hotel Mom Assisi;Piazza Dante Alighieri, 3, 06081 Santa Maria degli Angeli, Assisi Italia;2019-07-05;Perugia;Assisi;Italy;43,059368;12,585689
+197;Relais Ducale Hotel;Piazza Grande ,5 Via Galeotti, 19, 06024, Gubbio Italia;2019-07-05;Perugia;Gubbio;Italy;43,353521;12,578755
+198;Smeraldo Suites & Spa;via Rinascimento 141, 63074, San Benedetto Del Tronto Italia;2019-07-05;Ascoli Piceno;San Benedetto del Tronto;Italy;42,921348;13,900887
+199;B&B Del Castello;Via Elio Fileni 30, 63074, San Benedetto Del Tronto Italia;2019-07-05;Ascoli Piceno;San Benedetto del Tronto;Italy;42,949536;13,876589
+200;B&B Mare d'amare;Viale Alcide de Gasperi 91, 63074, San Benedetto Del Tronto Italia;2019-07-05;Ascoli Piceno;San Benedetto del Tronto;Italy;42,946615;13,88289
+201;Bed and breakfast Incanto Sotto il Mare;Via Faustina Maratta 1 angolo via C, Sforza, 63074, San Benedetto Del Tronto Italia;2019-07-05;Ascoli Piceno;San Benedetto del Tronto;Italy;42,933886;13,891352
+202;La Panoramica;Via Panoramica 20, 63074, San Benedetto Del Tronto Italia;2019-07-05;Ascoli Piceno;San Benedetto del Tronto;Italy;42,933753;13,860162
+203;Hotel Concorde;Piazza Stazione 2, 26900, Lodi Italia;2019-07-05;Lodi;Lodi;Italy;45,31;9,5
+204;B&B Hotel Milano Monza;Via Lario 19, 20052 Monza Italia;2019-07-05;Monza E Della Brianza;Monza;Italy;45,584;9,26
+205;Hotel Royal Falcone;Corso Milano 5, 20900 Monza Italia;2019-07-05;Monza E Della Brianza;Monza;Italy;45,579735;9,272908
+206;Hotel Maranello Village;Viale Terra delle Rosse, 12, 41053, Maranello Italia;2019-07-05;Modena;Maranello;Italy;44,530987;10,89777
+207;Planet Hotel;Via Giovanni Verga 22, 41053, Maranello Italia;2019-07-05;Modena;Maranello;Italy;44,532268;10,863687
+208;Hotel Panorama;Via Giuseppe Mazzini, 7,, 07026, Olbia, Sardegna Italia;2019-07-05;Olbia-Tempio;Olbia;Italy;40,92;9,5
+209;Hotel Il Guercino;Via Luigi Serra 7, 40129 Bologna Italia;2019-07-05;Bologna;Bologna;Italy;44,509281;11,345528
